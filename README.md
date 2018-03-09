@@ -27,7 +27,7 @@ Algorithm is provided by Lab1 handout
 Source code and some comments
 ----------
 
-.. code-block:: cpp
+.. code-block:: c_cpp
 
     #include <iostream>
     using namespace std;
