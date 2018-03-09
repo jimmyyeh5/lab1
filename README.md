@@ -25,10 +25,7 @@ Algorithm is provided by Lab1 handout
 4. goto 2.
 
 Source code and some comments
-----------
-
-
-.. code-block:: python
+---
 
 
     #include <iostream>
