@@ -1,15 +1,13 @@
 # lab1
-========================
+----------
+
 File Lsit
 -----------
-lab1.script
-...
-.:
 READ.md
 lab1.cpp
 lab1.script
 running_script.script
-...
+
 How to run file (For Unix)
 ---------------
 These are the sequence of commands
