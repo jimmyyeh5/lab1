@@ -3,10 +3,10 @@
 
 File Lsit
 -----------
-READ.md
-lab1.cpp
-lab1.script
-running_script.script
+*READ.md
+*lab1.cpp
+*lab1.script
+*running_script.script
 
 How to run file (For Unix)
 ---------------
