@@ -26,7 +26,7 @@ Algorithm is provided by Lab1 handout
 
 Source code and some comments
 ----------
-.. codeblock::cpp
+.. code-block:: cpp
 
 #include <iostream>
 
