@@ -1,0 +1,24 @@
+命令稿啟動於 2018年03月 9日 下午 09:08:17
+]0;~
+[32mX220@T420-THINK [33m~[0m
+$ script lab1.script[C[C[5Pgit config -l[C[C[C[C[C[Cls[Kconfig --global user.name "jimmyyeh5"email "jimmyyeh5@gmail.com"[C[C[C[C[C[C[C[5Plone https://github.com/jimmyyeh5/lab1.git[C[C[C[C[C[C[Config -l[K[C[C[3Pwhoami;pwd[C[Cgit status[C[Cwhoami;pwd[C[Cgit status[2Pinitstatus[C[Cwhoami;pwd
+X220
+/cygdrive/c/Users/X220/AppData/Roaming/SPB_Data
+]0;~
+[32mX220@T420-THINK [33m~[0m
+$ whoami;pwd[C[Cscript lab1.script[C[C[5Pgit config -l[C[C[C[C[C[Cls[Kconfig -l
+user.email=jimmyyeh5@gmail.com
+user.name=jimmyyeh5
+]0;~
+[32mX220@T420-THINK [33m~[0m
+$ git config -l[C[C[3Pwhoami;pwd[C[Cgit config -l[C[C[3Pwhoami;pwd[C[Cscript lab1.script[C[C[5Pgit config -l[C[C[C[C[C[Cls[Kconfig --global user.name "jimmyyeh5"email "jimmyyeh5@gmail.com"[C[C[C[C[C[C[C[5Plone https://github.com/jimmyyeh5/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;~
+[32mX220@T420-THINK [33m~[0m
+$ exit
+
+命令稿已於 2018年03月 9日 下午 09:08:57
+ 完成
