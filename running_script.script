@@ -1,0 +1,17 @@
+命令稿啟動於 2018年03月 9日 下午 09:36:35
+]0;~/lab1
+[32mX220@T420-THINK [33m~/lab1[0m
+$ git clone https://github.com/jimmyyeh5/lab1.git[C[C[C[C[C[C[Config -l[K[C[C[3Pwhoami;pwd[C[Cscript lab1.script[C[C[5Pgit config -l[C[C[C[C[C[Cls[Kconfig --global user.name "jimmyyeh5"email "jimmyyeh5@gmail.com"[C[C[C[C[C[C[C[5Plone https://github.com/jimmyyeh5/lab1.git[C[C[C[C[C[C[Config -l[K[C[C[3Pwhoami;pwd[C[Cgit status[2Pinit[C[Cls[Krm lab.script[C[Cls[Kcd lab1[C[Cls[Krm lab.script[C[Cls[Kgit initstatus[C[Cwhoami;pwd[C[Cgit config -llone https://github.com/jimmyyeh5/lab1.git[C[C[C[C[C[C[Config --global user.email "jimmyyeh5@gmail.com"[11Pname "jimmyyeh5"[C[C[C[C[C[Cls[Kconfig -l[C[Cscript lab1.script[C[C[8Pwhoami;pwd[C[Cgit config -llone https://github.com/jimmyyeh5/lab1.git[C[C[Kg++ lab1.cpp
+]0;~/lab1
+[32mX220@T420-THINK [33m~/lab1[0m
+$ g++ lab1.cpp[C[C[Cit clone https://github.com/jimmyyeh5/lab1.git[C[C[C++ lab1.cpp[K-lab1.cppolab1.cpp lab1.cpp[Clab1.cppalab1.cppblab1.cpp1lab1.cpp lab1.cpp
+]0;~/lab1
+[32mX220@T420-THINK [33m~/lab1[0m
+$ ./lab1
+22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1]0;~/lab1
+[32mX220@T420-THINK [33m~/lab1[0m
+$ exit
+
+命令稿已於 2018年03月 9日 下午 09:38:08
+ 完成
