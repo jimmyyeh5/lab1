@@ -8,12 +8,11 @@ File Lsit
 * lab1.script
 * running_script.script
 
-How to compile program for question B(For Unix)
+How to compile and execute program for question B
 ---------------
 These are the sequences of commands
-1. g++ lab1.cpp
-2. g++ -o lab1 lab1.cpp
-3. ./lab1
+1. g++ -o lab1 lab1.cpp
+2. ./lab1
 
 Algorithm is provided by Lab1 handout
 -------------
